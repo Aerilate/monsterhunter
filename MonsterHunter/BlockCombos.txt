@@ -1,0 +1,489 @@
+List of Block Combinations
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+000001
+1
+-----
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+000010
+1
+-----
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+000011
+2
+-----
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+000100
+1
+-----
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+000101
+2
+-----
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+000110
+2
+-----
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+000111
+3
+-----
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+001000
+1
+-----
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+001001
+2
+-----
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+001010
+2
+-----
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+001011
+3
+-----
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+001100
+2
+-----
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+001101
+3
+-----
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+001110
+3
+-----
+Passed Through
+Passed Through
+001111
+4
+-----
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+010000
+1
+-----
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+010001
+2
+-----
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+010010
+2
+-----
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+010011
+3
+-----
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+010100
+2
+-----
+Passed Through
+Passed Through
+Passed Through
+010101
+3
+-----
+Passed Through
+Passed Through
+Passed Through
+010110
+3
+-----
+Passed Through
+Passed Through
+010111
+4
+-----
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+011000
+2
+-----
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+011001
+3
+-----
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+011010
+3
+-----
+Passed Through
+Passed Through
+011011
+4
+-----
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+011100
+3
+-----
+Passed Through
+Passed Through
+011101
+4
+-----
+Passed Through
+Passed Through
+011110
+4
+-----
+Passed Through
+011111
+5
+-----
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+100000
+1
+-----
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+100001
+2
+-----
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+100010
+2
+-----
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+100011
+3
+-----
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+100100
+2
+-----
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+100101
+3
+-----
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+100110
+3
+-----
+Passed Through
+Passed Through
+100111
+4
+-----
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+101000
+2
+-----
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+101001
+3
+-----
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+101010
+3
+-----
+Passed Through
+Passed Through
+101011
+4
+-----
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+101100
+3
+-----
+Passed Through
+Passed Through
+101101
+4
+-----
+Passed Through
+Passed Through
+101110
+4
+-----
+101111
+5
+-----
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+110000
+2
+-----
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+110001
+3
+-----
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+110010
+3
+-----
+Passed Through
+Passed Through
+110011
+4
+-----
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+110100
+3
+-----
+Passed Through
+Passed Through
+110101
+4
+-----
+Passed Through
+Passed Through
+110110
+4
+-----
+Passed Through
+110111
+5
+-----
+Passed Through
+Passed Through
+Passed Through
+Passed Through
+111000
+3
+-----
+Passed Through
+Passed Through
+111001
+4
+-----
+Passed Through
+Passed Through
+111010
+4
+-----
+Passed Through
+111011
+5
+-----
+Passed Through
+Passed Through
+111100
+4
+-----
+Passed Through
+111101
+5
+-----
+Passed Through
+111110
+5
+-----
+111111
+6
+-----
